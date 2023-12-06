@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("lets go ");
         System.out.println("fourth");
-        System.out.println("fifth");
+        System.out.println("mergecommit");
         System.out.println("the branch2 ");
     }
 }
